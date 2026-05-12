@@ -170,8 +170,8 @@ This project is licensed under the MIT License - see LICENSE file for details.
 ## Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your-email@example.com
+- GitHub: [@kelashkenixx-ui](https://github.com/kelashkenixx-ui)
+- Email: kelashkenixx@gmail.com
 
 ---
 
